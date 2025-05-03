@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **beginner-friendly frontend projects using React**
 
-- 🤝 I’m looking for help with **ntegrating AI models into frontend projects.**
+- 🤝 I’m looking for help with **integrating AI models into frontend projects.**
 
 - 💬 Ask me about **using Orange for data mining**
 
